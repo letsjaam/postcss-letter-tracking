@@ -1,0 +1,29 @@
+{
+  "name": "postcss-letter-tracking",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to generate relative, Photoshop-compatible letter tracking for improved letter spacing.",
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "css",
+    "letter-spacing",
+    "typography"
+  ],
+  "author": "Adam Mustill <adam@letsjaam.com>",
+  "license": "MIT",
+  "repository": "letsjaam/postcss-letter-tracking",
+  "bugs": {
+    "url": "https://github.com/letsjaam/postcss-letter-tracking/issues"
+  },
+  "homepage": "https://github.com/letsjaam/postcss-letter-tracking/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "postcss": "^6.0.9"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
