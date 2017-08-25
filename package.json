@@ -1,6 +1,6 @@
 {
   "name": "postcss-letter-tracking",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCSS plugin to generate relative, Photoshop-compatible letter tracking for improved letter spacing.",
   "keywords": [
     "postcss",
