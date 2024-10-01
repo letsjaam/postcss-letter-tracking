@@ -1,7 +1,7 @@
 const postcss = require('postcss')
 const plugin = require('./')
 
-const run = input => postcss([ plugin ]).process(input)
+const run = input => postcss([ plugin ]).process(input, { from: undefined } )
 
 test('converts 1000 to 1em', () => {
     return run('div { letter-tracking: 1000; }').then(result => {
