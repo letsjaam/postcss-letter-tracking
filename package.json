@@ -11,7 +11,10 @@
   ],
   "author": "Adam Mustill <adam@letsjaam.com>",
   "license": "MIT",
-  "repository": "letsjaam/postcss-letter-tracking",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letsjaam/postcss-letter-tracking.git"
+  },
   "bugs": {
     "url": "https://github.com/letsjaam/postcss-letter-tracking/issues"
   },
