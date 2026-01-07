@@ -24,9 +24,9 @@
     "test": "jest"
   },
   "peerDependencies": {
-    "postcss": "^8.0.0"
+    "postcss": "^8.5.0"
   },
   "devDependencies": {
-    "jest": "^29.0.0"
+    "jest": "^30.2.0"
   }
 }
